@@ -39,7 +39,7 @@ let height = 0.0
 repeat {
 
     // Get width from user
-    print("Enter the width in inches: ");
+    print("Enter the width in inches: ")
 
     // catch invalid width
     do {
