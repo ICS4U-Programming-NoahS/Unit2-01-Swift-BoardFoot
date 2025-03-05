@@ -35,7 +35,6 @@ print("Welcome to the board foot program!")
 let width = 0.0
 let height = 0.0
 
-
 // do while loop to give user another chance to enter valid input
 repeat {
 
